@@ -92,7 +92,7 @@ License
 Specify your license here (e.g., MIT). Update this section with the chosen license file.
 
 Contact
-Maintainer: suraj-yalagi
+Maintainer: Viresh-Bilebal
 For questions or help, open an issue in this repository.
 
 Notes
